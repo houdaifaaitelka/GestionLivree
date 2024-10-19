@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppLivre", "ConsoleAppLivre\ConsoleAppLivre.csproj", "{BAFA3D20-AE90-4934-8C4D-9B78F4B4EE53}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{185DD168-3A4E-4093-B59B-73660E0EE17D}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore.txt = .gitignore.txt
+		Livre.cs = Livre.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAFA3D20-AE90-4934-8C4D-9B78F4B4EE53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAFA3D20-AE90-4934-8C4D-9B78F4B4EE53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAFA3D20-AE90-4934-8C4D-9B78F4B4EE53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAFA3D20-AE90-4934-8C4D-9B78F4B4EE53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1DC46974-C1BA-49EC-9A1D-27F733F5B3A9}
+	EndGlobalSection
+EndGlobal
