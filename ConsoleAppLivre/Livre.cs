@@ -6,22 +6,25 @@ using System.Threading.Tasks;
 
 namespace ConsoleAppLivre
 {
-    internal class Livre
+    public class Livre
     {
         public string Titre { get; set; }
         public string Auteur { get; set; }
-        public int NombrePages { get; set; }
-
-        public Livre(string titre, string auteur, int nbrPages)
+        public int NombreDePages { get; set; }
+        public string Genre { get; set; } 
+        public Livre(string titre, string auteur, int nombreDePages, string genre)
         {
             Titre = titre;
             Auteur = auteur;
-            NombrePages = nbrPages;
+            NombreDePages = nombreDePages;
+            Genre = genre;
         }
-
-        public void AfficherDetails()
+        public virtual void AfficherDetails()
         {
-            Console.WriteLine($"Titre: {Titre}, Auteur: {Auteur}, Nombre de Pages: {NombrePages}");
+            Console.WriteLine($"Titre: {Titre}");
+            Console.WriteLine($"Auteur: {Auteur}");
+            Console.WriteLine($"Nombre de pages: {NombreDePages}");
+            Console.WriteLine($"Genre: {Genre}"); 
         }
     }
 }

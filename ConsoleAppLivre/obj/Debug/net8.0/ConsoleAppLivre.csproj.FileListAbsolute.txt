@@ -1,0 +1,14 @@
+C:\ateliers\C#\ConsoleAppLivre\ConsoleAppLivre\bin\Debug\net8.0\ConsoleAppLivre.exe
+C:\ateliers\C#\ConsoleAppLivre\ConsoleAppLivre\bin\Debug\net8.0\ConsoleAppLivre.deps.json
+C:\ateliers\C#\ConsoleAppLivre\ConsoleAppLivre\bin\Debug\net8.0\ConsoleAppLivre.runtimeconfig.json
+C:\ateliers\C#\ConsoleAppLivre\ConsoleAppLivre\bin\Debug\net8.0\ConsoleAppLivre.dll
+C:\ateliers\C#\ConsoleAppLivre\ConsoleAppLivre\bin\Debug\net8.0\ConsoleAppLivre.pdb
+C:\ateliers\C#\ConsoleAppLivre\ConsoleAppLivre\obj\Debug\net8.0\ConsoleAppLivre.GeneratedMSBuildEditorConfig.editorconfig
+C:\ateliers\C#\ConsoleAppLivre\ConsoleAppLivre\obj\Debug\net8.0\ConsoleAppLivre.AssemblyInfoInputs.cache
+C:\ateliers\C#\ConsoleAppLivre\ConsoleAppLivre\obj\Debug\net8.0\ConsoleAppLivre.AssemblyInfo.cs
+C:\ateliers\C#\ConsoleAppLivre\ConsoleAppLivre\obj\Debug\net8.0\ConsoleAppLivre.csproj.CoreCompileInputs.cache
+C:\ateliers\C#\ConsoleAppLivre\ConsoleAppLivre\obj\Debug\net8.0\ConsoleAppLivre.dll
+C:\ateliers\C#\ConsoleAppLivre\ConsoleAppLivre\obj\Debug\net8.0\refint\ConsoleAppLivre.dll
+C:\ateliers\C#\ConsoleAppLivre\ConsoleAppLivre\obj\Debug\net8.0\ConsoleAppLivre.pdb
+C:\ateliers\C#\ConsoleAppLivre\ConsoleAppLivre\obj\Debug\net8.0\ConsoleAppLivre.genruntimeconfig.cache
+C:\ateliers\C#\ConsoleAppLivre\ConsoleAppLivre\obj\Debug\net8.0\ref\ConsoleAppLivre.dll
